@@ -1,0 +1,4 @@
+repository "Space SHMUP Part 1/Space SHMUP Part 1@2475875903239@cloud"
+  path "/"
+    br "/main"
+    co "/main"
